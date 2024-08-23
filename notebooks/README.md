@@ -1,7 +1,7 @@
 # Project README
 
 ## Overview
-This project analyzes a weather dataset from Togo, Dapaong (`togo-dapaong_qc.csv`) using Python. The analysis includes data cleaning, outlier detection, and visualization of various meteorological variables.
+This project analyzes a weather dataset using Python. The analysis includes data cleaning, outlier detection, and visualization of various meteorological variables.
 
 ## Key Steps
 1. **Data Loading and Inspection**: Load the dataset and inspect its structure.
